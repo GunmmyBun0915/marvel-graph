@@ -2,7 +2,7 @@
 
 《漫威人物关系图谱》的独立部署快照。
 
-- 在线页面：https://gummybun999.github.io/marvel-graph/
+- 在线页面：https://gunmmybun0915.github.io/marvel-graph/
 - 纯静态单文件，无服务端、数据库或付费资源
 - 本仓库与本地持续迭代版本解耦，不会自动覆盖本地工作目录
 
